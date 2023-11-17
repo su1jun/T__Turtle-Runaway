@@ -48,8 +48,7 @@ These are the objects the turtle <b>must collect</b> for its mission.<br>
 <img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/282b8703-681e-4613-96f6-90c999a627ed"/> <b>Poisonous Mushroom :</b> ❌ <b>Avoid this item!</b> It moves <b>randomly...</b> If you get it, the turtle will be scolded on its return.<br>
 <img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/b9fd6c60-e1c7-477c-83f8-67fcf16319f8"/> <b>Rotten Mushroom :</b> ❌ <b>Also Avoid this too!</b> It <b>chases turtle...</b> If you get it, the turtle will be scolded on its return.<br>
 </p>
-<hr>
-<hr>
+<hr><br>
 
 <h2>📚References & Credits</h2>
 <p>
