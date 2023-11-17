@@ -52,11 +52,11 @@ These are the objects the turtle <b>must collect</b> for its mission.<br>
 
 <h2>📚References & Credits</h2>
 <p>
-    <b>Source Code Reference:</b> <a href="https://github.com/mint-lab/prog_meets_math">https://github.com/mint-lab/prog_meets_math</a><br>
-    <b>Eonggeum Eonggeum Image:</b> <a href="https://namu.wiki/">https://namu.wiki/</a>, Personal Use Only<br>
-    <b>Turtles Image:</b> <a href="https://github.com/su1jun/Turtle-Runaway">https://github.com/su1jun/Turtle-Runaway</a>, Public Domain<br>
-    <b>Background Image:</b> <a href="https://github.com/su1jun/Turtle-Runaway">https://github.com/su1jun/Turtle-Runaway</a>, Public Domain<br>
-    <b>Other Image Sources:</b> <a href="https://www.vhv.rs/">https://www.vhv.rs/</a>, Personal Use Only<br>
+    <b>Source Code Reference :</b> <a href="https://github.com/mint-lab/prog_meets_math">https://github.com/mint-lab/prog_meets_math</a><br>
+    <b>Eonggeum Eonggeum Image :</b> <a href="https://namu.wiki/">https://namu.wiki/</a>, Personal Use Only<br>
+    <b>Turtles Image :</b> <a href="https://github.com/su1jun/Turtle-Runaway">https://github.com/su1jun/Turtle-Runaway</a>, Public Domain<br>
+    <b>Background Image :</b> <a href="https://github.com/su1jun/Turtle-Runaway">https://github.com/su1jun/Turtle-Runaway</a>, Public Domain<br>
+    <b>Other Image Sources :</b> <a href="https://www.vhv.rs/">https://www.vhv.rs/</a>, Personal Use Only<br>
 </p>
 
 <hr>
