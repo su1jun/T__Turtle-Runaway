@@ -49,3 +49,17 @@ These are the objects the turtle <b>must collect</b> for its mission.<br>
 <img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/b9fd6c60-e1c7-477c-83f8-67fcf16319f8"/> <b>Rotten Mushroom :</b> ❌ <b>Also Avoid this too!</b> It <b>chases turtle...</b> If you get it, the turtle will be scolded on its return.<br>
 </p>
 <hr>
+<hr>
+
+<h2>📚References & Credits</h2>
+<p>
+    <b>Source Code Reference:</b> <a href="https://github.com/mint-lab/prog_meets_math">https://github.com/mint-lab/prog_meets_math</a><br>
+    <b>Eonggeum Eonggeum Image:</b> <a href="https://namu.wiki/">https://namu.wiki/</a>, Personal Use Only<br>
+    <b>Turtles Image:</b> <a href="https://github.com/su1jun/Turtle-Runaway">https://github.com/su1jun/Turtle-Runaway</a>, Public Domain<br>
+    <b>Background Image:</b> <a href="https://github.com/su1jun/Turtle-Runaway">https://github.com/su1jun/Turtle-Runaway</a>, Public Domain<br>
+    <b>Other Image Sources:</b> <a href="https://www.vhv.rs/">https://www.vhv.rs/</a>, Personal Use Only<br>
+</p>
+
+<hr>
+
+<p>© 2023 su1jun. Creative Commons Attribution.</p>
