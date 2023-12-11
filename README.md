@@ -1,10 +1,8 @@
 <h1>🐢💦 Turtle Runaway 😝</h1>
-<br>
 <h2>😃Demo Play</h2>
 
 https://github.com/su1jun/Turtle-Runaway/assets/120762843/cb9b94c3-5d3c-4498-a789-2cd707c01ca0
-
-<hr><br>
+<hr>
 
 <img width="160px" padding="20px" margin="20px"  align="left" src="https://github.com/su1jun/su1jun/assets/120762843/1bb84824-bddf-41aa-b144-f300254218ff"/>
 <br>
@@ -15,7 +13,7 @@ These relics are crucial for enchanting <b>Bowser's castle.</b><br>
 However, it looks like <b>Mario’s gonna swipe them all</b> this time as well🏳️...<br>
 Anyway, I really <b>need your help</b> to pull this off safely!<br>
 </p>
-<hr><br><br>
+<hr><br>
 
 <h2>📒Game Description</h2>
 <p>
@@ -50,8 +48,8 @@ These are the objects the turtle <b>must collect</b> for its mission.<br>
 <br>
 <img width="24px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/0c29ea23-1e3a-4a54-b108-fa3b0f4aa6df"/> <b>Clock :</b> A side item. Adds <b>a bonus 10 seconds⏳</b> to your time when you get it.<br>
 <br>
-<img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/282b8703-681e-4613-96f6-90c999a627ed"/> <b>Poisonous Mushroom :</b> ❌ <b>Avoid this item!</b> It moves <b>randomly...</b> If you get it, the turtle will be scolded on its return.<br>
-<img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/b9fd6c60-e1c7-477c-83f8-67fcf16319f8"/> <b>Rotten Mushroom :</b> ❌ <b>Also Avoid this too!</b> It <b>chases turtle...</b> If you get it, the turtle will be scolded on its return.<br>
+<img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/282b8703-681e-4613-96f6-90c999a627ed"/> <b>Poisonous Mushroom :</b> ❌ <b>Avoid this item!</b> It moves <b>randomly...</b> <br>If you get it, the turtle will be scolded on its return.<br>
+<img width="30px" ppadding='10px' src="https://github.com/su1jun/su1jun/assets/120762843/b9fd6c60-e1c7-477c-83f8-67fcf16319f8"/> <b>Rotten Mushroom :</b> ❌ <b>Also Avoid this too!</b> It <b>chases turtle...</b> <br>If you get it, the turtle will be scolded on its return.<br>
 </p>
 <hr><br>
 
